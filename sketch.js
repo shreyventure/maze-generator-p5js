@@ -25,8 +25,8 @@ function setup() {
     }
   }
 
-  //   current = grid[0];
-  current = grid[floor(random(0, grid.length))];
+  current = grid[0];
+  //   current = grid[floor(random(0, grid.length))];
 }
 
 function draw() {
